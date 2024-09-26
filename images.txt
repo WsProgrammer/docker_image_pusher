@@ -1,3 +1,3 @@
 mpromonet/webrtc-streamer
-kafka:3.2
+bitnami/kafka:3.2
 bitnami/zookeeper:3.8
