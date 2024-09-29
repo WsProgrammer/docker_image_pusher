@@ -1,3 +1,4 @@
 mpromonet/webrtc-streamer
 bitnami/kafka:3.2
 bitnami/zookeeper:3.8
+nickzurich/efak:3.0.1
