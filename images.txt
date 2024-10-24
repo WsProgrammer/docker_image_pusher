@@ -2,8 +2,12 @@ mpromonet/webrtc-streamer
 bitnami/kafka:3.2
 bitnami/zookeeper:3.8
 nickzurich/efak:3.0.1
+bitnami/kafka:latest
+bitnami/zookeeper:latest
+nickzurich/efak:latest
 mysql:latest
 fauria/vsftpd:latest
 jenkins/jenkins:lts
 tdengine/tdengine:3.2.0.0
+tdengine/tdengine:latest
 redis:latest
