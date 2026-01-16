@@ -11,3 +11,8 @@ jenkins/jenkins:lts
 tdengine/tdengine:3.2.0.0
 tdengine/tdengine:latest
 redis:latest
+nginx:latest
+influxdb:2.3.0
+questdb/questdb:7.3.10
+tdengine/tdengine:3.3.6.0
+timescale/timescaledb:2.17.2-pg16
